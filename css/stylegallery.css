@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient( 89.9deg,  rgba(178,253,238,0.96) -8.1%, rgba(207,244,254,1) 26.3%, rgba(207,244,254,0.48) 47.5%, rgba(254,219,243,0.63) 61.5%, rgba(254,219,243,1) 78.7%, rgba(254,207,210,1) 109.2% );
+}
+h1{
+    font-weight:bold;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	word-spacing:4px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color:#252B48;
+	text-shadow: 2px 2px 5px #5faeb6;
+    padding-bottom: 3%;
+}
+.img1{
+    width: 49%;
+}
+.img2{
+    width: 35%;
+}
+.img3{
+    width: 37%
+}
